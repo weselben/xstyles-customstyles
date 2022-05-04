@@ -1,12 +1,12 @@
-@-moz-document domain("equippr.de"),domain("www.equippr.de"){
-.panel--tr {
-  background-color: #222222!important;
-}
-.order--name {
-  color: #e5e5e5!important;
-}
-.panel--paging .paging--link {
-  background-color: #000000!important;
-  background-image: none!important;
-}
+@-moz-document domain("equippr.de"), domain("www.equippr.de") {
+    .panel--tr {
+        background-color: #222222!important;
+    }
+    .order--name {
+        color: #e5e5e5!important;
+    }
+    .panel--paging .paging--link {
+        background-color: #000000!important;
+        background-image: none!important;
+    }
 }
